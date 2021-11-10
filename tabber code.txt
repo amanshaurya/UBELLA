@@ -1,0 +1,110 @@
+<ul class="nav nav-pills mb-3 mt-5 d-flex justify-content-center align-items-center h-100" id="pills-tab" role="tablist">
+                <li class="nav-item " role="presentation">
+                    <button class="nav-link active text-light" id="pills-all-tab" data-bs-toggle="pill" data-bs-target="#pills-all" type="button" role="tab" aria-controls="pills-all" aria-selected="true">ALL</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link text-light" id="pills-fashion-tab" data-bs-toggle="pill" data-bs-target="#pills-fashion" type="button" role="tab" aria-controls="pills-fashion" aria-selected="false">FASHION</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link text-light" id="pills-session-tab" data-bs-toggle="pill" data-bs-target="#pills-session" type="button" role="tab" aria-controls="pills-session" aria-selected="false">SESSION</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link text-light" id="pills-studio-tab" data-bs-toggle="pill" data-bs-target="#pills-studio" type="button" role="tab" aria-controls="pills-studio" aria-selected="false">STUDIO</button>
+                </li>
+            </ul>
+            <div class="tab-content" id="pills-tabContent">
+                <div class="tab-pane fade show active" id="pills-all" role="tabpanel" aria-labelledby="pills-all-tab">
+                    <section class="gallery min-vh-100 mt-5 mt-lg-5 mt-sm-5" id="gallery">
+                        <div class="container-lg">
+                            <div class="row gy-4 row-cols-1 row-cols-sm-2 row-cols-md-3">
+                                <div class="col">
+                                    <img src="assets/img/about-1.png" class="gallery-item" alt="Gallery1">
+                                </div>
+
+                                <div class="col">
+                                    <img src="assets/img/about-1.png" class="gallery-item" alt="Gallery2">
+                                </div>
+
+                                <div class="col">
+                                    <img src="assets/img/about-1.png" class="gallery-item" alt="Gallery3">
+                                </div>
+
+                                <div class="col">
+                                    <img src="assets/img/about-1.png" class="gallery-item" alt="Gallery4">
+                                </div>
+
+                                <div class="col">
+                                    <img src="assets/img/about-1.png" class="gallery-item" alt="Gallery5">
+                                </div>
+
+                                <div class="col">
+                                    <img src="assets/img/about-1.png" class="gallery-item" alt="Gallery6">
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+                <div class="tab-pane fade" id="pills-fashion" role="tabpanel" aria-labelledby="pills-fashion-tab">
+                    <section class="gallery min-vh-100 mt-5 mt-lg-5 mt-sm-5" id="gallery">
+                        <div class="container-lg">
+                            <div class="row gy-4 row-cols-1 row-cols-sm-2 row-cols-md-3">
+                                <div class="col">
+                                    <img src="assets/img/about-1.png" class="gallery-item" alt="Gallery1">
+                                </div>
+
+                                <div class="col">
+                                    <img src="assets/img/about-1.png" class="gallery-item" alt="Gallery2">
+                                </div>
+
+                                <div class="col">
+                                    <img src="assets/img/about-1.png" class="gallery-item" alt="Gallery3">
+                                </div>
+
+                            </div>
+                    </section>
+                    </div>
+                    <div class="tab-pane fade" id="pills-session" role="tabpanel" aria-labelledby="pills-session-tab">
+                        <section class="gallery min-vh-100 mt-5 mt-lg-5 mt-sm-5" id="gallery">
+                            <div class="container-lg">
+                                <div class="row gy-4 row-cols-1 row-cols-sm-2 row-cols-md-3">
+                                    <div class="col">
+                                        <img src="assets/img/about-1.png" class="gallery-item" alt="Gallery1">
+                                    </div>
+
+                                    <div class="col">
+                                        <img src="assets/img/about-1.png" class="gallery-item" alt="Gallery2">
+                                    </div>
+
+                                    <div class="col">
+                                        <img src="assets/img/about-1.png" class="gallery-item" alt="Gallery3">
+                                    </div>
+
+                                    <div class="col">
+                                        <img src="assets/img/about-1.png" class="gallery-item" alt="Gallery4">
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+
+                    <div class="tab-pane fade" id="pills-studio" role="tabpanel" aria-labelledby="pills-studio-tab">
+                        <section class="gallery min-vh-100 mt-5 mt-lg-5 mt-sm-5" id="gallery">
+                            <div class="container-lg">
+                                <div class="row gy-4 row-cols-1 row-cols-sm-2 row-cols-md-3">
+
+
+                                    <div class="col">
+                                        <img src="assets/img/about-1.png" class="gallery-item" alt="Gallery3">
+                                    </div>
+
+                                    <div class="col">
+                                        <img src="assets/img/about-1.png" class="gallery-item" alt="Gallery4">
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+
+                </div>
+
+                <!-- TABBER ENDS -->
